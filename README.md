@@ -1,25 +1,31 @@
-# Biography
-My name is Axel Anderson and I am currently undertaking a computer science degree.
+# About Me
+I'm Axel Anderson, a second-year Computer Science student at the University of Technology Sydney, currently in the process of transferring to the University of New South Wales. My portfolio features a range of projects ranging from web scraping and automation to reverse engineering and x86 assembly, many of which are ongoing or experimental.
 
-I have an assortment of (mostly unfinished) projects ranging from web-scraping to reverse engineering. There should be some programs written in x86 assembly thrown in for good measure.
+Outside of programming, I enjoy walking, cooking, and playing games such as Civilization VI and Factorio.
 
-In my spare time, I enjoy walking, cooking and playing video games such as Civilization VI and factorio. 
+# Skills
+
+The programming languages I am most experienced with are Python and C++. I have written a little Java through university. I am also experienced with the DBMS sqlite and mariadb. 
+
+The areas I am most experienced in are writing REST APIs, web scraping, reverse engineering, text recognition, scripting (bash, python, powershell).
+
+I used to daily drive linux, but now just manage personal servers running Debian and Ubuntu. I have lots of experience installing, troubleshooting and configuring software. 
+
+I also have minimal experience with deployment and CI/CD, such as Docker and Github Actions.
+
+I am currently working towards mastering DSA through competitive programming questions. Please see my leetcode account for statistics.
+
+I most recently studied discrete mathematics and linear algebra, so am proficient in them.
 
 # Interests
 
-My expertise and interest is significantly wide (Jack-of-all-trades, master of none). I will attempt to enumerate my interests (not skills per-se!) in no particular order:
+I am most interested in compilers, although haven't had a chance to study them. 
 
-- Web Scraping and Dataset Preprocessing
-- Reverse Engineering, Malware Analysis, Binary Obsfuscation
-- High Performance Computing, Parallelism and Single Instruction Multiple Data (SIMD), General Purpose GPU, Performance Optimisation Techniques
-- Algorithms and Data Structures
-- Data Science, Machine Learning
-- Graphics Programming/Game Engines
-- Natural Language Processing, Linguistics
-- Embedded Control Systems
+Otherwise, anything that requires finding optimal solutions to a difficult problems using mathematic or computer science knowledge satisfy me greatly.
 
-The list could be twice as long. Unfortunately, I may not live long enough to learn everything. I will however try my best.
+# Contact/Links
 
-# Contact
+[Leetcode](https://leetcode.com/u/thicccatto3/)
 
-For any kind of enquiry, please do not hesitate to contact me at `axel.s.anderson@student.uts.edu.au`. Unfortuantely, my fax and carrier-pidgeon are out-of-order for the time being.
+For any kind of enquiry, please do not hesitate to contact me at `axel.s.anderson@student.uts.edu.au`.
+
